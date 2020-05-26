@@ -50,7 +50,7 @@ Objectives:
 Time taken to process the images:
 ```
 +------------------------+---------------------+
-| CNN Model Architecture | 		Time taken     |
+| CNN Model Architecture | 	Time taken     |
 +------------------------+---------------------+
 |          VGG           |        0:1:6        |
 +------------------------+---------------------+
