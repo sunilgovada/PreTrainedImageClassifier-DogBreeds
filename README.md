@@ -4,6 +4,7 @@ Use a pre-trained image classifier to identify dog breeds
 Determining the "best" classification algorithm works on correctly identifying a dog's breed:
 
 Principal Objectives:
+	
 	1) Correctly identify which pet images are of dogs (even if breed is misclassified) and which pet images aren't of dogs.
  
 	2) Correctly classify the breed of dog, for the images that are of dogs.
